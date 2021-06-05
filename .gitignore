@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 node_modules
 .cache
 dist
+=======
+.vscode
+.module-cache
+.DS_Store
+jspm_packages/
+.idea
+*.swp
+*.log
+atlassian-ide-plugin.xml
+.eslintcache
+node_modules/
+*.lock
+>>>>>>> 1a9a2496219115f268487332ce13861edbb1af63
